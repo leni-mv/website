@@ -1,0 +1,16 @@
+#!/bin/python3.6
+#-*-coding:Utf-8 -*
+
+# Le # doit dépendre de nb variable a
+
+a=4
+b="#"
+c=1
+
+while c < a:
+	print(b)
+	b.append(#)
+	c+1
+	if c == a
+	print(b)
+	break
