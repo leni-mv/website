@@ -7,4 +7,3 @@ I'm french and I learn the programmation ! Love this and I want to make many pro
 
 So... "Hello World !"
 
-(I have to add something here for the tutorial. But I want eat and sleep =w=)
